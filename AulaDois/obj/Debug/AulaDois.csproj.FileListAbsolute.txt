@@ -1,0 +1,10 @@
+E:\executáveis liberados\uninove\AulaDois\bin\Debug\AulaDois.exe.config
+E:\executáveis liberados\uninove\AulaDois\bin\Debug\AulaDois.exe
+E:\executáveis liberados\uninove\AulaDois\bin\Debug\AulaDois.pdb
+E:\executáveis liberados\uninove\AulaDois\obj\Debug\AulaDois.csprojResolveAssemblyReference.cache
+E:\executáveis liberados\uninove\AulaDois\obj\Debug\AulaDois.ExInteiro.resources
+E:\executáveis liberados\uninove\AulaDois\obj\Debug\AulaDois.Properties.Resources.resources
+E:\executáveis liberados\uninove\AulaDois\obj\Debug\AulaDois.csproj.GenerateResource.Cache
+E:\executáveis liberados\uninove\AulaDois\obj\Debug\AulaDois.exe
+E:\executáveis liberados\uninove\AulaDois\obj\Debug\AulaDois.pdb
+E:\executáveis liberados\uninove\AulaDois\obj\Debug\AulaDois.Salario.resources
